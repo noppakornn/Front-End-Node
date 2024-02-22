@@ -10,7 +10,7 @@ var bodyParser = require('body-parser')
 
 //const base_url = "http://localhost:3000"
 //const base_url = "http://10.104.7.149"
-const base_url = "http://node56384-noderest-test1.proen.app.ruk-com.cloud"
+const base_url = "http://node58143-noderestjame.proen.app.ruk-com.cloud"
 
 // Set the template engine
 app.set('views', path.join(__dirname, "/public/views"))
